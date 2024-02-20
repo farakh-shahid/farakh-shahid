@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=farakh-shahid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farakh-shahid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -47,3 +47,79 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+<!-- Add a banner or header image here if you like -->
+
+# Full Stack Web Developer
+
+## Technologies & Tools
+
+### Frontend
+- **React.js:** A JavaScript library for building user interfaces.
+- **Redux:** State management library for JavaScript apps.
+- **Next.js:** React framework for production.
+- **Vue.js:** Progressive JavaScript framework.
+- **HTML/CSS:** Fundamental technologies for web development.
+- **Bootstrap/Tailwind CSS:** CSS frameworks for responsive design.
+
+### Backend
+- **Node.js:** JavaScript runtime for server-side development.
+- **Express.js:** Web application framework for Node.js.
+- **NestJS:** A progressive Node.js framework for building efficient and scalable server-side applications.
+- **Ruby on Rails:** Web application framework for Ruby.
+
+### Database
+- **MongoDB:** A NoSQL database for high volume data storage.
+- **MySQL:** An open-source relational database management system.
+- **PostgreSQL:** A powerful, open-source relational database system.
+- **Prisma ORM:** Next-generation ORM for TypeScript and Node.js.
+
+### Other Tools
+- **Git & GitHub:** Version control and collaborative platform.
+- **npm/yarn:** Package managers for JavaScript.
+- **RESTful APIs:** Architectural style for networked applications.
+- **GraphQL:** A query language for APIs.
+
+## Projects Highlights
+
+### [Project Name](link_to_project)
+- Description: Brief description of the project.
+- Technologies Used: List of technologies used in the project.
+- Demo: Link to live demo (if available).
+- GitHub Repository: Link to GitHub repository.
+
+### [Project Name](link_to_project)
+- Description: Brief description of the project.
+- Technologies Used: List of technologies used in the project.
+- Demo: Link to live demo (if available).
+- GitHub Repository: Link to GitHub repository.
+
+## Snake Game with GitHub Commits Visualization
+
+![Snake Game](snake_game_screenshot.png)
+
+### Description
+This Snake game project not only provides entertainment but also showcases your GitHub commit history. Each time the snake eats an apple, it represents a commit, and the length of the snake grows accordingly. The game fetches data from your GitHub account using the GitHub API and visualizes your commit history dynamically.
+
+### Features
+- Dynamic visualization of GitHub commit history.
+- Responsive design for seamless gameplay on different devices.
+- Simple yet addictive gameplay experience.
+
+### Technologies Used
+- HTML, CSS, JavaScript
+- React.js
+- GitHub API
+
+## About Me
+
+I'm a passionate Full Stack Web Developer with expertise in MERN stack, Node.js, NestJS, Redux, Vue.js, Prisma ORM, PostgreSQL, MySQL, and Ruby on Rails. I love building scalable and efficient web applications that provide great user experiences. With a strong foundation in both frontend and backend technologies, I strive to create robust solutions that meet the needs of clients and users alike.
+
+## Contact Me
+
+- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
+- Email: your_email@example.com
+- Portfolio: [Your Portfolio Website](link_to_portfolio)
+- GitHub: [Your GitHub Profile](link_to_github)
+
+Feel free to reach out to discuss collaborations or projects!
+
