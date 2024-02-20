@@ -124,3 +124,9 @@ I'm a passionate Full Stack Web Developer with expertise in MERN stack, Node.js,
 
 Feel free to reach out to discuss collaborations or projects!
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/farakh-shahid/count.svg?"  />
+</div>
+
+###
+
