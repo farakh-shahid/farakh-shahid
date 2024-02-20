@@ -44,7 +44,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/farakh-shahid/farakh-shahid/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <!-- Add a banner or header image here if you like -->
