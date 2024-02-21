@@ -49,7 +49,7 @@
 - **RESTful APIs:** Architectural style for networked applications.
 - **GraphQL:** A query language for APIs.
 
-## About Me
+## 💫 About Me:
 
 I'm a passionate Full Stack Web Developer with expertise in MERN stack, Node.js, NestJS, Redux, Vue.js, Prisma ORM, PostgreSQL, MySQL, and Ruby on Rails. I love building scalable and efficient web applications that provide great user experiences. With a strong foundation in both frontend and backend technologies, I strive to create robust solutions that meet the needs of clients and users alike.
 
