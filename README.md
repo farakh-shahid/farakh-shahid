@@ -111,47 +111,15 @@
 - **RESTful APIs:** Architectural style for networked applications.
 - **GraphQL:** A query language for APIs.
 
-## Projects Highlights
-
-### [Project Name](link_to_project)
-- Description: Brief description of the project.
-- Technologies Used: List of technologies used in the project.
-- Demo: Link to live demo (if available).
-- GitHub Repository: Link to GitHub repository.
-
-### [Project Name](link_to_project)
-- Description: Brief description of the project.
-- Technologies Used: List of technologies used in the project.
-- Demo: Link to live demo (if available).
-- GitHub Repository: Link to GitHub repository.
-
-## Snake Game with GitHub Commits Visualization
-
-![Snake Game](snake_game_screenshot.png)
-
-### Description
-This Snake game project not only provides entertainment but also showcases your GitHub commit history. Each time the snake eats an apple, it represents a commit, and the length of the snake grows accordingly. The game fetches data from your GitHub account using the GitHub API and visualizes your commit history dynamically.
-
-### Features
-- Dynamic visualization of GitHub commit history.
-- Responsive design for seamless gameplay on different devices.
-- Simple yet addictive gameplay experience.
-
-### Technologies Used
-- HTML, CSS, JavaScript
-- React.js
-- GitHub API
-
 ## About Me
 
 I'm a passionate Full Stack Web Developer with expertise in MERN stack, Node.js, NestJS, Redux, Vue.js, Prisma ORM, PostgreSQL, MySQL, and Ruby on Rails. I love building scalable and efficient web applications that provide great user experiences. With a strong foundation in both frontend and backend technologies, I strive to create robust solutions that meet the needs of clients and users alike.
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
-- Email: your_email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-farrukh-615326170/)
+- Email: farakhraja72@gmail.com
 - Portfolio: [Your Portfolio Website](link_to_portfolio)
-- GitHub: [Your GitHub Profile](link_to_github)
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
