@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Muhammad Farrukh and I'm a Full Stack Web Developer </h2>
+<h2 align="left">Hi There 👋 My name is Muhammad Farrukh and I'm a Full Stack Web Developer </h2>
+
+<h2 align="left">I'am Muhammad Farrukh </h2>
 
 ###
 
