@@ -2,13 +2,6 @@
 
 <h2 align="left">I'am Muhammad Farrukh </h2>
 
-###
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farakh-shahid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -115,20 +108,7 @@
 
 I'm a passionate Full Stack Web Developer with expertise in MERN stack, Node.js, NestJS, Redux, Vue.js, Prisma ORM, PostgreSQL, MySQL, and Ruby on Rails. I love building scalable and efficient web applications that provide great user experiences. With a strong foundation in both frontend and backend technologies, I strive to create robust solutions that meet the needs of clients and users alike.
 
-## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-farrukh-615326170/)
-- Email: farakhraja72@gmail.com
-- Portfolio: [Your Portfolio Website](link_to_portfolio)
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
 
 <br clear="both">
 
@@ -148,3 +128,17 @@ I'm a passionate Full Stack Web Developer with expertise in MERN stack, Node.js,
 
 ###
 
+## Contact Me
+
+- LinkedIn: [Muhammad Farrukh](https://www.linkedin.com/in/muhammad-farrukh-615326170/)
+- Email: farakhraja72@gmail.com
+- Portfolio: [Your Portfolio Website](link_to_portfolio)
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
