@@ -1,6 +1,6 @@
 <h2 align="left">💫 Hi There 👋 </h2>
 
-<h2 align="left"> 👨🏻‍💻 I'M Muhammad Farrukh </h2>
+<h2 align="left"> 👨🏻‍💻 I'm Muhammad Farrukh </h2>
 
 
 
