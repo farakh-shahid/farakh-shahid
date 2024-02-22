@@ -15,7 +15,7 @@ Passionate Full Stack Web Developer with expertise in MERN stack, Node.js, NestJ
 
 ### 
 
-# ⚡ Fun fact
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/farakh-shahid/farakh-shahid/output/snake.svg" alt="Snake animation" />
 
