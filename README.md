@@ -6,7 +6,7 @@
 
 ## 💫 About Me :
 
-Passionate Full Stack Web Developer with expertise in MERN stack, Node.js, NestJS, Redux, Vue.js, Prisma ORM, PostgreSQL, MySQL, and Ruby on Rails. I love building scalable and efficient web applications that provide great user experiences. With a strong foundation in both frontend and backend technologies, I strive to create robust solutions that meet the needs of clients and users alike.
+Fullstack Engineer with extensive experience in designing and developing scalable, high-performance web applications. Proven ability to optimize system performance, reduce latency, and enhance user experience. Skilled in full-cycle development using JavaScript, TypeScript, ReactJS, NextJS, NodeJS, NestJS, and AWS. Expertise in DevOps, Docker, and CI/CD implementation to streamline deployments and ensure system stability.
 
 ###
 
